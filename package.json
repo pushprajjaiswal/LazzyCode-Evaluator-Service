@@ -21,12 +21,15 @@
     "typescript": "^5.7.2"
   },
   "dependencies": {
+    "@types/ioredis": "^4.28.10",
     "@typescript-eslint/eslint-plugin": "^8.19.0",
     "@typescript-eslint/parser": "^8.19.0",
     "algocode-evaluator-service": "file:",
+    "bullmq": "^5.34.9",
     "concurrently": "^8.2.2",
     "dotenv": "^16.4.7",
     "eslint": "^9.17.0",
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "ioredis": "^5.4.2"
   }
 }
